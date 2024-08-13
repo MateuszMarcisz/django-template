@@ -95,6 +95,7 @@ db_config = dj_database_url.config(default=DATABASE_URL, conn_max_age=500, ssl_r
 
 DATABASES['default'].update(db_config)
 
+
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
 
