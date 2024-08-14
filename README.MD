@@ -2,8 +2,8 @@
 
 ## Setup
 1. envs
-2. statifiles
-
+2. staticfiles
+3. media
 
 ### Dictionary
 - REPL - read, evaluate, print, loop
